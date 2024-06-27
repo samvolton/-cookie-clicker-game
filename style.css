@@ -1,0 +1,20 @@
+#game {
+    padding: 30px;
+    border: 3px solid pink;
+    position: relative;
+    width: 200px;
+    height: 200px;
+  }
+  .cookie {
+    font-size: 32px;
+    position: absolute;
+    cursor: grab;
+  }
+  #info {
+    font: 24px sans-serif;
+  }
+  #score,
+  #clock {
+    color: pink;
+  }
+  
